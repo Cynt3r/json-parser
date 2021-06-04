@@ -1,5 +1,4 @@
-[![pipeline status](https://gitlab.fit.cvut.cz/kralva10/json-parser/badges/master/pipeline.svg)](https://gitlab.fit.cvut.cz/kralva10/json-parser/commits/master)
-[![coverage report](https://gitlab.fit.cvut.cz/kralva10/json-parser/badges/master/coverage.svg)](https://gitlab.fit.cvut.cz/kralva10/json-parser/commits/master)
+[![Build Status](https://travis-ci.org/github/Cynt3r/json-parser.svg?branch=master)](https://travis-ci.org/github/Cynt3r/json-parser)
 
 # JSON parser
 The main part of project is a parser of JSON files that serializes files into ```JSONVal``` structure represented by following types:
