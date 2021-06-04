@@ -1,4 +1,4 @@
-name: Scala CI
+name: json-parser
 
 on:
   push:

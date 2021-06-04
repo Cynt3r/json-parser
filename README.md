@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.com/Cynt3r/json-parser.svg?branch=master)](https://travis-ci.com/Cynt3r/json-parser)
+[![Build Actions Status](https://github.com/Cynt3r/json-parser/workflows/json-parser/badge.svg)](https://github.com/Cynt3r/json-parser/actions)
 
 # JSON parser
 The main part of project is a parser of JSON files that serializes files into ```JSONVal``` structure represented by following types:
