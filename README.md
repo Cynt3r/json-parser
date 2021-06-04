@@ -2,7 +2,7 @@
 [![coverage report](https://gitlab.fit.cvut.cz/kralva10/json-parser/badges/master/coverage.svg)](https://gitlab.fit.cvut.cz/kralva10/json-parser/commits/master)
 
 # JSON parser
-The main part of project is a parser of JSON files that serializes files into ```JSONVal``` structure represented by these types:
+The main part of project is a parser of JSON files that serializes files into ```JSONVal``` structure represented by following types:
  - ```JSONNull```
  - ```JSONBool```
  - ```JSONInt```
